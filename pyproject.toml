@@ -36,9 +36,9 @@ dev = [
 costco-biz = "costco_business_sdk.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/hughgramelspacher/costco-business-sdk"
-Repository = "https://github.com/hughgramelspacher/costco-business-sdk"
-Issues = "https://github.com/hughgramelspacher/costco-business-sdk/issues"
+Homepage = "https://github.com/hughgramel/costco-business-sdk"
+Repository = "https://github.com/hughgramel/costco-business-sdk"
+Issues = "https://github.com/hughgramel/costco-business-sdk/issues"
 
 [build-system]
 requires = ["hatchling"]
