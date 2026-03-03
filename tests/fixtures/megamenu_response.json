@@ -1,0 +1,223 @@
+{
+  "megaMenu": [
+    {
+      "children": [
+        {
+          "children": [],
+          "parent": "Appliances",
+          "name": "Appliances",
+          "count": 46,
+          "url": "/commercial-appliances.html",
+          "leads_to_fsa_chdi": false
+        }
+      ],
+      "name": "Appliances",
+      "count": 46,
+      "url": "/appliances.html",
+      "leads_to_fsa_chdi": false
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "Coffee Beans",
+              "count": 43,
+              "url": "/coffee-beans.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "Coffee Creamer",
+              "count": 32,
+              "url": "/coffee-creamer.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "Coffee Filters",
+              "count": 3,
+              "url": "/coffee-filters.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "Cold Brew & Iced Coffee",
+              "count": 27,
+              "url": "/cold-brew-iced-coffee.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "Ground Coffee",
+              "count": 21,
+              "url": "/ground-coffee.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "Instant Coffee",
+              "count": 8,
+              "url": "/instant-coffee.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Coffee",
+              "name": "K-Cups & Coffee Pods",
+              "count": 23,
+              "url": "/k-cups-coffee-pods.html",
+              "leads_to_fsa_chdi": false
+            }
+          ],
+          "parent": "Beverages",
+          "name": "Coffee",
+          "count": 158,
+          "url": "/coffee.html",
+          "leads_to_fsa_chdi": false
+        },
+        {
+          "children": [],
+          "parent": "Beverages",
+          "name": "Energy Drinks",
+          "count": 83,
+          "url": "/energy-drinks.html",
+          "leads_to_fsa_chdi": false
+        },
+        {
+          "children": [],
+          "parent": "Beverages",
+          "name": "Flavored Syrups",
+          "count": 39,
+          "url": "/flavored-syrups.html",
+          "leads_to_fsa_chdi": false
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "parent": "Juice",
+              "name": "Cider & Sparkling Juice",
+              "count": 15,
+              "url": "/cider-sparkling-juice.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Juice",
+              "name": "Fruit Juice & Smoothies",
+              "count": 86,
+              "url": "/fruit-juice-smoothies.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Juice",
+              "name": "Kombucha",
+              "count": 7,
+              "url": "/kombucha.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Juice",
+              "name": "Lemonade & Drink Mixes",
+              "count": 8,
+              "url": "/lemonade-drink-mixes.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Juice",
+              "name": "Vegetable Juice",
+              "count": 10,
+              "url": "/vegetable-juice.html",
+              "leads_to_fsa_chdi": true
+            }
+          ],
+          "parent": "Beverages",
+          "name": "Juice",
+          "count": 128,
+          "url": "/juice.html",
+          "leads_to_fsa_chdi": true
+        },
+        {
+          "children": [],
+          "parent": "Beverages",
+          "name": "Soda",
+          "count": 151,
+          "url": "/soda.html",
+          "leads_to_fsa_chdi": false
+        },
+        {
+          "children": [],
+          "parent": "Beverages",
+          "name": "Sports Drinks",
+          "count": 24,
+          "url": "/sports-drinks.html",
+          "leads_to_fsa_chdi": false
+        },
+        {
+          "children": [],
+          "parent": "Beverages",
+          "name": "Tea & Cocoa",
+          "count": 52,
+          "url": "/tea-cocoa.html",
+          "leads_to_fsa_chdi": false
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "parent": "Water",
+              "name": "Bottled Water",
+              "count": 91,
+              "url": "/bottled-water.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Water",
+              "name": "Coconut Water",
+              "count": 10,
+              "url": "/coconut-water.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Water",
+              "name": "Flavored Water",
+              "count": 7,
+              "url": "/flavored-water.html",
+              "leads_to_fsa_chdi": false
+            },
+            {
+              "children": [],
+              "parent": "Water",
+              "name": "Sparkling Water",
+              "count": 62,
+              "url": "/sparkling-water.html",
+              "leads_to_fsa_chdi": false
+            }
+          ],
+          "parent": "Beverages",
+          "name": "Water",
+          "count": 171,
+          "url": "/water.html",
+          "leads_to_fsa_chdi": false
+        }
+      ],
+      "name": "Beverages",
+      "count": 806,
+      "url": "/beverages.html",
+      "leads_to_fsa_chdi": true
+    }
+  ]
+}

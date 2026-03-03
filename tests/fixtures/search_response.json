@@ -1,0 +1,286 @@
+{
+  "response": {
+    "numFound": 2638,
+    "docs": [
+      {
+        "item_disponzeroinv": false,
+        "item_product_marketing_statement": "",
+        "item_short_description": "Kirkland Signature Purified Drinking Water, 8 fl oz, 80 ct",
+        "item_product_comparable": true,
+        "item_variableweight": false,
+        "item_product_name": "Kirkland Signature Purified Drinking Water, 8 fl oz, 80 ct",
+        "item_review_ratings": "0.0",
+        "item_product_review_eligible": false,
+        "categoryPath_ss": [
+          "/beverages.html",
+          "/bottled-water.html",
+          "/water.html"
+        ],
+        "group_id": "100276911",
+        "item_member_only": true,
+        "item_classification_itemclass": "Standard",
+        "item_product_status_disponzeroinv": true,
+        "item_number": "906165",
+        "Container_Size_attr": [
+          "8 oz."
+        ],
+        "item_ratings": 0.0,
+        "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/2krzt98fspq832sr9cfg67s/906165__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "item_fsa_eligible": false,
+        "item_as400_department": "14",
+        "item_product_image_swatchable": false,
+        "name": "Kirkland Signature Purified Drinking Water, 8 fl oz, 80 ct",
+        "item_manufacturing_skus": [
+          "096619366378"
+        ],
+        "item_product_marketing_features": [
+          "Bottled using state-of-the-art purification, filtration and reverse osmosis technologies;\nMinerals added for a pure, refreshing taste;"
+        ],
+        "description": "Kirkland Signature Purified Drinking Water, 8 fl oz, 80 ct",
+        "Case_Count_attr": [
+          "80"
+        ],
+        "item_buyable": true,
+        "item_status_published": true,
+        "item_comparable": true,
+        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/2krzt98fspq832sr9cfg67s/906165__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "item_product_price_in_cart_only": "0",
+        "item_chdi_eligible": false,
+        "item_name": "Kirkland Signature Purified Drinking Water, 8 fl oz, 80 ct",
+        "Carbonated_attr": [
+          "No"
+        ],
+        "item_eligible_for_review": "true",
+        "image": "https://bfasset.costco-static.com/U447IH35/as/2krzt98fspq832sr9cfg67s/906165__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "item_as400_category": "MWE",
+        "item_product_marketingcontent_keywords": [
+          "P3Beverages"
+        ],
+        "item_product_buyable": true,
+        "Dietary_Features_attr": [
+          "Kosher"
+        ],
+        "item_product_status_published": true,
+        "item_searchable": false,
+        "item_image_swatchable": false,
+        "item_product_short_description": "Kirkland Signature Purified Drinking Water, 8 fl oz, 80 ct",
+        "content_type": [
+          "product"
+        ],
+        "Brand_attr": [
+          "Kirkland Signature"
+        ],
+        "id": "906165!item.en-US",
+        "item_product_status_backorderflag": 0,
+        "item_rating_average_value": 0,
+        "item_backorderflag": 0,
+        "item_review_count": 0,
+        "item_product_review_count": 0,
+        "item_product_status_backorderqty": 0,
+        "item_backorderqty": 0,
+        "item_startDate": "2016-03-18T00:40:25Z",
+        "isFutureDate": false,
+        "item_location_availability": "out of stock",
+        "item_location_pricing_listPrice": 13.99,
+        "item_location_pricing_salePrice": 13.99,
+        "item_location_stockStatus": "out of stock",
+        "item_location_itemNumber": "906165",
+        "item_location_locationNumber": "115",
+        "item_location_fulfillment_restrictions_minQty": "1",
+        "item_location_fulfillment_restrictions_maxQty": "9999",
+        "item_location_currencyCode": "USD",
+        "hasSingleSku": true,
+        "minSalePrice": 13.99,
+        "maxSalePrice": 13.99,
+        "isItemInStock": false,
+        "images": [
+          {
+            "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/2krzt98fspq832sr9cfg67s/906165__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+          }
+        ]
+      },
+      {
+        "item_disponzeroinv": true,
+        "item_fsa_eligible": false,
+        "item_product_marketing_statement": "",
+        "item_image_swatchable": false,
+        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/pk7x8pt937xc87bmwbgsgx/449163__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "item_product_price_in_cart_only": "0",
+        "item_short_description": "Nutri Bon Stretch Film, Clear, 20\"W x 5000'L",
+        "item_product_comparable": true,
+        "item_product_short_description": "Nutri Bon Stretch Film, Clear, 20\"W x 5000'L",
+        "item_as400_department": "14",
+        "item_product_image_swatchable": false,
+        "item_variableweight": false,
+        "item_product_name": "Nutri Bon Stretch Film, Clear, 20\"W x 5000'L",
+        "item_chdi_eligible": false,
+        "item_name": "Nutri Bon Stretch Film, Clear, 20\"W x 5000'L",
+        "item_eligible_for_review": "false",
+        "Length_attr": [
+          "5,000 ft."
+        ],
+        "item_review_ratings": "0.0",
+        "item_product_review_eligible": false,
+        "image": "https://bfasset.costco-static.com/U447IH35/as/pk7x8pt937xc87bmwbgsgx/449163__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "name": "Nutri Bon Stretch Film, Clear, 20\"W x 5000'L",
+        "item_manufacturing_skus": [
+          "095796036883"
+        ],
+        "item_product_marketing_features": [
+          "Suitable for wrapping pallets;"
+        ],
+        "Width_attr": [
+          "20 in."
+        ],
+        "description": "Nutri Bon Stretch Film, Clear, 20\"W x 5000'L",
+        "Case_Count_attr": [
+          "1"
+        ],
+        "content_type": [
+          "product"
+        ],
+        "Material_attr": [
+          "Plastic"
+        ],
+        "categoryPath_ss": [
+          "/mailroom-packing-supplies.html",
+          "/office.html",
+          "/mailroom-shipping.html"
+        ],
+        "group_id": "11489750",
+        "item_member_only": true,
+        "item_classification_itemclass": "Standard",
+        "item_as400_category": "GPP",
+        "item_product_status_disponzeroinv": true,
+        "item_number": "449163",
+        "Brand_attr": [
+          "Nutri-Bon"
+        ],
+        "item_buyable": true,
+        "item_ratings": 0.0,
+        "item_status_published": true,
+        "item_product_buyable": true,
+        "item_comparable": true,
+        "item_product_status_published": true,
+        "item_searchable": true,
+        "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/pk7x8pt937xc87bmwbgsgx/449163__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "id": "449163!item.en-US",
+        "item_product_status_backorderflag": 0,
+        "item_review_count": 0,
+        "item_backorderqty": 0,
+        "item_product_review_count": 0,
+        "item_product_status_backorderqty": 0,
+        "item_rating_average_value": 0,
+        "item_backorderflag": 0,
+        "isFutureDate": false,
+        "item_location_availability": "in stock",
+        "item_location_pricing_listPrice": 50.99,
+        "item_location_pricing_salePrice": 50.99,
+        "item_location_stockStatus": "in stock",
+        "item_location_itemNumber": "449163",
+        "item_location_locationNumber": "115",
+        "item_location_fulfillment_restrictions_minQty": "1",
+        "item_location_fulfillment_restrictions_maxQty": "9999",
+        "item_location_currencyCode": "USD",
+        "hasSingleSku": true,
+        "minSalePrice": 50.99,
+        "maxSalePrice": 50.99,
+        "isItemInStock": true,
+        "images": [
+          {
+            "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/pk7x8pt937xc87bmwbgsgx/449163__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+          }
+        ]
+      },
+      {
+        "item_disponzeroinv": true,
+        "item_fsa_eligible": false,
+        "item_product_marketing_statement": "",
+        "item_image_swatchable": false,
+        "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/9n897t5q8c3kmf6jq2sqtxh/588399__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "item_product_price_in_cart_only": "0",
+        "item_short_description": "Durable Packaging Foil Oblong Pan with Lid, 4 lb, 150 ct",
+        "item_product_comparable": true,
+        "item_product_short_description": "Durable Packaging Foil Oblong Pan with Lid, 4 lb, 150 ct",
+        "item_as400_department": "14",
+        "item_product_image_swatchable": false,
+        "item_variableweight": false,
+        "item_product_name": "Durable Packaging Foil Oblong Pan with Lid, 4 lb, 150 ct",
+        "Model_descriptive": [
+          "240-L150"
+        ],
+        "item_chdi_eligible": false,
+        "item_name": "Durable Packaging Foil Oblong Pan with Lid, 4 lb, 150 ct",
+        "item_eligible_for_review": "false",
+        "item_review_ratings": "0.0",
+        "item_product_review_eligible": false,
+        "image": "https://bfasset.costco-static.com/U447IH35/as/9n897t5q8c3kmf6jq2sqtxh/588399__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "name": "Durable Packaging Foil Oblong Pan with Lid, 4 lb, 150 ct",
+        "item_manufacturing_skus": [
+          "074729962406"
+        ],
+        "description": "Durable Packaging Foil Oblong Pan with Lid, 4 lb, 150 ct",
+        "Case_Count_attr": [
+          "150"
+        ],
+        "content_type": [
+          "product"
+        ],
+        "Material_attr": [
+          "Aluminum"
+        ],
+        "categoryPath_ss": [
+          "/disposables.html",
+          "/take-out-containers-boxes.html"
+        ],
+        "group_id": "11660105",
+        "item_member_only": true,
+        "item_classification_itemclass": "Standard",
+        "item_as400_category": "GFF",
+        "Model_attr": [
+          "240-L150"
+        ],
+        "item_product_status_disponzeroinv": true,
+        "item_number": "588399",
+        "Brand_attr": [
+          "Durable Packaging"
+        ],
+        "item_buyable": true,
+        "item_ratings": 0.0,
+        "item_status_published": true,
+        "item_product_buyable": true,
+        "item_comparable": true,
+        "item_product_status_published": true,
+        "item_searchable": true,
+        "item_product_primary_image": "https://bfasset.costco-static.com/U447IH35/as/9n897t5q8c3kmf6jq2sqtxh/588399__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350",
+        "id": "588399!item.en-US",
+        "item_product_status_backorderflag": 0,
+        "item_review_count": 0,
+        "item_backorderqty": 0,
+        "item_product_review_count": 0,
+        "item_product_status_backorderqty": 0,
+        "item_rating_average_value": 0,
+        "item_backorderflag": 0,
+        "isFutureDate": false,
+        "item_location_availability": "in stock",
+        "item_location_pricing_listPrice": 143.99,
+        "item_location_pricing_salePrice": 143.99,
+        "item_location_stockStatus": "in stock",
+        "item_location_itemNumber": "588399",
+        "item_location_locationNumber": "115",
+        "item_location_fulfillment_restrictions_minQty": "1",
+        "item_location_fulfillment_restrictions_maxQty": "9999",
+        "item_location_currencyCode": "USD",
+        "hasSingleSku": true,
+        "minSalePrice": 143.99,
+        "maxSalePrice": 143.99,
+        "isItemInStock": true,
+        "images": [
+          {
+            "item_collateral_primaryimage": "https://bfasset.costco-static.com/U447IH35/as/9n897t5q8c3kmf6jq2sqtxh/588399__1psd?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
+          }
+        ]
+      }
+    ]
+  }
+}
